@@ -4,6 +4,7 @@ public class MyFirstGit {
         System.out.println("Bye matia...");
 
         String[] name = {"이지표", "matia"};
+        int age = 25;
 
         Bye bye = new Bye();
         Hello hello = new Hello();
