@@ -3,6 +3,8 @@ public class MyFirstGit {
         System.out.println("Hello matia!");
         System.out.println("Bye matia...");
 
+        String[] name = {"이지표", "matia"};
+
         Bye bye = new Bye();
         Hello hello = new Hello();
 
