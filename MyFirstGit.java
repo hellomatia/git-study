@@ -3,6 +3,8 @@ public class MyFirstGit {
         System.out.println("Hello matia!");
         System.out.println("Bye matia...");
 
+        int age = 25;
+
         Bye bye = new Bye();
         Hello hello = new Hello();
 
