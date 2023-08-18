@@ -8,5 +8,9 @@ public class MyFirstGit {
 
         bye.printBye();
         hello.printHello();
+
+        for (int i = 0; i < 3; i++) {
+            System.out.println("HaHa");
+        }
     }
 }
